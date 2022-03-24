@@ -1,8 +1,15 @@
 1. Open iterm2
 
-2. type: "pwd"
+2. type: 
 
-3. type ls -l 
+```
+pwd
+```
+
+3. type 
+```
+ls -l 
+```
 
 4. touch hello.txt
 
