@@ -1,0 +1,10 @@
+a file name should never contain a space. 
+
+
+for example instead of "marias file", you can write it like this:
+
+
+mariasfile.txt
+marias_file.txt
+mariasFile.txt
+..... and so on. 
