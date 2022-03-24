@@ -1,21 +1,17 @@
-First Step: Open iterm2
+1. Open iterm2
 
-2nd step: type "pwd"
+2. type: "pwd"
 
+3. type ls -l 
 
-3rd step: type ls -l 
+4. touch hello.txt
 
-4th step: touch hello.txt
+5. repeat 3rd step
 
-5th step: repeat 3rd step
+6. type mkdir (short for make directory)
 
-6th step: type mkdir (short for make directory)
+7. repeat 3rd step
 
+8. mv hello.txt github [mv is for move]
 
-7th step : repeat 3rd step
-
-
-8th step : mv hello.txt github [mv is for move]
-
-
-9th step: cd github [ cd is for change directory]
+9. cd github [ cd is for change directory]
