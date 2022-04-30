@@ -50,3 +50,20 @@ git status : The git status command is used to display the state of the current 
 
 
 "cd" followed by the first letter of the folder to go into that folder . ...
+
+git status
+
+
+git add (m+tab)
+
+git status
+
+
+(git commit-m)+ information 
+
+git status
+
+
+git push
+
+
