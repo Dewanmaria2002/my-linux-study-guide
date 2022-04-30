@@ -49,4 +49,4 @@ git add . -  " The git add command is to add changes in the current directory to
 git status : The git status command is used to display the state of the current respitory and the Staging area.
 
 
-"cd" followed by the first letter of the folder to go into that folder . 
+"cd" followed by the first letter of the folder to go into that folder . ...
