@@ -1,4 +1,4 @@
-The command 'man' is used to get the description of the command. For example:
+<!--  -->The command 'man' is used to get the description of the command. For example:
 
 ```
 man ls
@@ -67,3 +67,6 @@ git status
 git push
 
 
+
+
+practice for uploading 1
