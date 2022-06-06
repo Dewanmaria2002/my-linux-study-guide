@@ -4,6 +4,8 @@ The content of this file is written using [markdown syntax](https://www.markdown
 
 `cd` - change directory.  This let's you go inside different directories. 
 
+`git` - blah blah blah
+
 `mkdir` - is used to make  files 0r directories
 
 `cp` - is iused to copy directories or files
