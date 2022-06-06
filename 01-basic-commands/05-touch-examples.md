@@ -13,3 +13,11 @@ Note: a file name should never contain spaces. E.g. "my Name" is bad. Instead, y
 ```
 touch file1.txt file2.txt
 ```
+
+3. create an empty file called hello.txt inside a folder called "myFolder"
+
+```
+touch myFolder/hello.txt
+```
+
+Notice how don't need to go inside a folder in order to create your file. 
