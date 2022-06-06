@@ -1,4 +1,3 @@
-a file name should never contain a space. 
 
 
 for example instead of "marias file", you can write it like this:
