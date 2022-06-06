@@ -6,4 +6,10 @@ Some example of the `touch` command:
 touch myFile
 ```
 
-Note: a file name should never contain spaces. E.g. "my Name" is bad. Instead, you can do "my_File" or "my-file"...etc. 
+Note: a file name should never contain spaces. E.g. "my Name" is bad. Instead, you can do "my_File" or "my-file"...etc.
+
+2. You can create multiple files with one `touch` command:
+
+```
+touch file1.txt file2.txt
+```
